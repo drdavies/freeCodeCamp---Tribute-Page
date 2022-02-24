@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #37301F;
+  margin: 0;
+  text-align: center;
+  }
+  
+  #main {
+    background-color: #D7C8A3;
+    margin: 20px 5px;
+    padding: 0;
+  }
+     
+
+  #title {
+    padding: 10px;
+    font-family: 'Merriweather', serif;
+  }
+
+  #quote{
+    font-style: italic;
+    font-family: 'Merriweather', serif;
+  }
+
+  #img-div {
+    background-color: #B39E6B;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  #image {
+    max-width: 100%;
+    display: block;
+    width: 600px;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-caption {
+    font-style: italic;
+    padding: 10px;
+  }
+
+  #tribute-info-title {
+    padding: 10px;
+    font-family: 'Merriweather', serif;
+
+  }
+  
+  #tribute-info {
+    background-color: #B39E6B;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  ul {
+    line-height: 70px;
+    text-align: left;
+  }
+  
+  #learn-more{
+    background-color: #D7C8A3;
+      font-size: 18px;
+      font-weight: bold;
+      margin: 10px;
+      padding: 10px;
+  }
+
+  /*#tribute-link {
+  }*/
+  
+  a:hover {
+    color: yellow;
+  }
+  
